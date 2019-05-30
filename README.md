@@ -42,7 +42,10 @@ print("  'E/D'   to Enable/Disable Keyboard Interruption")
 |Pi CPU+NCS * 2|23.58|6.62|13.50x|
 -------------
 #### Results
-
+![image](https://github.com/ylin0022/Application-Using-Pi-and-Multiple-NCSs/blob/master/Screenshots/result%201.png)
+![image](https://github.com/ylin0022/Application-Using-Pi-and-Multiple-NCSs/blob/master/Screenshots/result%202.png)
+![image](https://github.com/ylin0022/Application-Using-Pi-and-Multiple-NCSs/blob/master/Screenshots/result%203.png)
+![image](https://github.com/ylin0022/Application-Using-Pi-and-Multiple-NCSs/blob/master/Screenshots/result%204.png)
 
 -------------
 **Created by Yucong on 2018/05/30**

@@ -9,12 +9,6 @@
 # 2. 测试只运行video_objects.py的时候是不是精度也这么差，为什么只显示people的label[是精度差，程序没问题]
 # 3. keyboard interruption 无法正常工作[已解决]
 # 4. Line 424 and line 627. Comment these two liens or there will be errors when we have more than 2 devices.
-
-# Remaining problems[solved]：  
-# 1. flag couldn’t be extracted successfully[solved]  
-# 2. test if the accuracy when running video_objects.py only is poor or not，why is there only the label of people[code is good, model accuracy is poor]  
-# 3. keyboard interruption couldn’t work[solved]  
-# 4. Line 430 and line 633. Comment these two liens or there will be errors when we have more than 2 devices.  
 import sys
 import time
 import os
